@@ -1,5 +1,5 @@
 {
-    "name": "Bluetooth Control__with_Ultrasonic20190704",
+    "name": "tinybit-music",
     "description": "",
     "dependencies": {
         "core": "*",
